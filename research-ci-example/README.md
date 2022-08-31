@@ -12,4 +12,5 @@ $ python main.py
 ## How to run test code?
 ```sh
 $ python -m unittest discover -p "*_test.py"
+$ python -m "test.py"
 ```
